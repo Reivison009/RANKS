@@ -1,0 +1,18 @@
+RANK UNICODE MAPPING
+==================
+Pack: RANKS
+Author: seavitas
+Generated: 09/11/2025, 21:31:40
+
+Filename		Unicode Character	Unicode Hex
+--------		-----------------	-----------
+1000144688						U+E000
+1000144687						U+E001
+1000144684						U+E002
+1000144686						U+E003
+1000144685						U+E004
+
+
+How to use:
+Copy the Unicode Character and paste it in your text/signs/books in Minecraft.
+The corresponding rank image will appear in place of the character.
